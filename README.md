@@ -41,7 +41,4 @@ A maintenance analytics dashboard built to monitor downtime, maintenance cost an
 ## Current Focus
 I am building analytics portfolio projects that demonstrate how data can support operational decisions, performance improvement and business prioritization.
 
-## Contact
-- LinkedIn: ...
-- Email: anne.d.wic@gmail.com
 
