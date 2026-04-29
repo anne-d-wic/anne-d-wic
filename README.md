@@ -14,9 +14,7 @@ I specialize in operational performance, industrial analytics, and business moni
 
 ## Profile Focus
 
-My portfolio is built around a simple idea: analytics projects should not stop at the dashboard layer.
-
-I aim to show how data moves from source generation or preparation, through SQL transformation and reporting logic, into decision-oriented Power BI outputs that support executive and operational decisions.
+I build analytics projects that go beyond dashboards by combining data preparation, SQL transformation, and Power BI reporting into decision-oriented workflows.
 
 ## Featured Projects
 
@@ -44,7 +42,7 @@ An industrial maintenance analytics project built across Python, SQL Server, and
 - Tools: Power BI, SQL Server, DAX, Python
 - Highlights: SQL reporting layer, downtime drivers, maintenance cost analysis, technician-level operational insights
 
-This is currently my strongest end-to-end analytics project because it demonstrates a more mature workflow: Python for source data generation, SQL Server for transformation and reporting views, and Power BI for semantic modeling and visualization.
+This is currently my strongest end-to-end analytics project, combining Python source generation, SQL Server reporting views, and Power BI semantic modeling in a single workflow.
 
 ## Tools
 
