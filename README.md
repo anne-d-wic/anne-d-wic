@@ -61,21 +61,3 @@ This is currently my strongest end-to-end analytics project because it demonstra
 I am building analytics portfolio projects that demonstrate how data can support operational decisions, performance improvement, and business prioritization through end-to-end reporting workflows.
 
 My current emphasis is on strengthening not only dashboard quality, but also SQL credibility, reporting-layer design, and analytical rigor.
-
----
-
-## Suggested Pinned Repository Descriptions
-
-Use these as stronger short descriptions for the pinned repositories on the profile page.
-
-### project-portfolio-analytics-dashboard
-
-Power BI and Python dashboard analyzing portfolio delivery, risk exposure, and milestone performance with a business-oriented PMO lens.
-
-### production-efficiency-powerbi-dashboard
-
-Industrial production analytics dashboard built with Power BI and Python to monitor output, downtime, efficiency, and shift performance.
-
-### industrial-maintenance-powerbi-dashboard
-
-Industrial maintenance analytics workflow built with Python, SQL Server, and Power BI to monitor downtime, maintenance cost, and operational execution.
