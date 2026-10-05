@@ -1,7 +1,5 @@
 # Hi, I'm Anne
 
-Data Analyst | Power BI, Python & dbt | From tested data models to decision-ready insights
-
 I specialize in operational performance, industrial analytics, and business monitoring, with projects designed to show not only dashboard delivery, but also the transformation and reporting logic behind it.
 
 ## Recruiter Snapshot
