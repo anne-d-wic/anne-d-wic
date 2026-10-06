@@ -1,7 +1,5 @@
 # Hi, I'm Anne
 
-Data Analyst | Power BI, Python & dbt | From tested data models to decision-ready insights
-
 I turn business and operational data into clear, decision-ready insights. My projects go beyond dashboard design: I prepare and validate data, define meaningful KPIs, and build reporting models that make the underlying logic transparent.
 
 Across portfolio, production, and maintenance analytics, I work with Power BI, Python, and SQL Server. My portfolio analytics project extends this workflow with dbt and DuckDB, using layered transformations and automated data quality tests to produce reporting-ready models.
